@@ -1,0 +1,11 @@
+Image 1 is a golf hole layout I made (top-down, cut out on white). Image 2 is the realism reference.
+
+Repaint Image 1 as a real top-down aerial drone photograph with exactly the photographic quality of Image 2 (natural summer sunlight from the upper-left, real turf, real sand, real tree canopies with soft cast shadows, true photo detail and color, no illustration look).
+
+STRICT LAYOUT LOCK — this is a map of a real hole, do not redesign:
+- Keep the exact same outline, position and size of every element as Image 1: the overall course silhouette, the fairway shape, the green shape at the top with the pin, the 3 bunkers (one left of the green, one large and one small on the right side of the fairway), the 4 tee boxes at the bottom, and the two tree groups on the left (one large, one small).
+- Do not add, remove, move, rotate or reshape anything. No paths, no water, no extra bunkers, no extra trees, no text, no markers.
+- Same portrait framing and aspect ratio as Image 1.
+- Everything outside the course silhouette stays pure flat white (#FFFFFF), exactly like Image 1, so it can be cut out.
+
+Look: fairway with crisp light/dark mowing stripes along the hole, smooth putting green with a darker collar ring, slightly longer darker rough with visible grass texture, bright white-beige raked sand with a sharp grass lip, dense deciduous tree crowns with individual leaf clusters and shadows falling to the lower-right onto the rough.

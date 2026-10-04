@@ -1,0 +1,5 @@
+Image 1 is a photoreal top-down aerial of a golf hole cut out on white. Image 2 is the realism reference.
+
+Fill ALL the white area around the hole with natural surroundings so it looks like one continuous real drone photo, matching Image 2: dense mixed deciduous/conifer forest canopy with individual tree crowns and soft shadows to the lower-right, a few patches of longer unmown meadow grass right next to the course edge, natural variation. Same sunlight from the upper-left.
+
+Do NOT change the golf hole itself at all: keep the course, fairway, green with pin, the 3 bunkers, the 4 tees and the existing tree groups exactly where and how they are. Do not add bunkers, water, paths, buildings, roads or text. Keep the same portrait framing and aspect ratio. No white left anywhere.
